@@ -9,11 +9,11 @@ Intensivão de Power BI, da Hashtag Treinamentos ocorreu 02 à 04 de Março. 100
 
 ### Tópicos desenvolvidos : 
 
-✔️ Aula 1 - Dashboard de Vendas
+✔️ Aula 1 - Dashboard de Vendas<br>
 <br>
-✔️ Aula 2 - Dashboard Financeiro
+✔️ Aula 2 - Dashboard Financeiro<br>
 <br>
-✔️ Aula 3 - Dashboard de Estoque
+✔️ Aula 3 - Dashboard de Estoque<br>
 <br>
 ✔️ Aula 4 - Dashboard de RH<br>
 <br>
